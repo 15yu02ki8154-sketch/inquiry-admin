@@ -8,9 +8,10 @@ Webサイトから送信された問い合わせを、管理者が一覧・詳�
 基本要素を Next.js（App Router）で実装しました。
 
 ## URL（本番）
-- 本番URL：＜VercelのURL＞
-- 一覧ページ：/admin/inquiries
-- 詳細ページ：/admin/inquiries/[id]
+- 本番URL：＜https://inquiry-admin-olxe.vercel.app/admin/inquiries＞
+- 一覧ページ：https://inquiry-admin-olxe.vercel.app/admin/inquiries
+- 詳細ページ：https://inquiry-admin-olxe.vercel.app/admin/inquiries/1
+- 404ページ例：https://inquiry-admin-olxe.vercel.app/admin/inquiries/9999
 
 ## 開発背景・目的
 Web開発の現場では、ユーザー向け画面だけでなく
